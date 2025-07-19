@@ -18,15 +18,24 @@ class Solution {
             ps[i] = ps[i - 1] + nums[i];
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (i == 0) {
-                    if (ps[j] == k)
-                        count++;
-                } else {
-                    if (ps[j] - ps[i - 1] == k)
-                        count++;
+        int L = 0;
+        int R = 0;
+        while (L < n) {
+            if (L == 0) {
+                if (ps[R] == k) {
+                    count++;
                 }
+            } else {
+                if (ps[R] - ps[L - 1] == k) {
+                    count++;
+                }
+            }
+
+            if (R == n - 1) {
+                L++;
+                R = L;
+            } else {
+                R++;
             }
         }
 
