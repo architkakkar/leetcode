@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/architkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
