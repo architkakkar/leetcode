@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/architkakkar/leetcode/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/architkakkar/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/architkakkar/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
