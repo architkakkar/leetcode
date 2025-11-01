@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/architkakkar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/architkakkar/leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/architkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/architkakkar/leetcode/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
