@@ -13,6 +13,29 @@
  *     }
  * }
  */
+// Recursive Solution
+// TC: O(n) - worst case, average O(log n)
+// SC: O(H) - height of tree
+class Solution {
+    public TreeNode insertIntoBST(TreeNode root, int val) {
+        if (root == null) {
+            return new TreeNode(val);
+        }
+
+        if (val < root.val) {
+            root.left = insertIntoBST(root.left, val);
+        } else {
+            root.right = insertIntoBST(root.right, val);
+        }
+
+        return root;
+    }
+}
+
+/*
+// Iterative Solution
+// TC: O(n) - worst case, average O(log n)
+// SC: O(1)
 class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if (root == null) {
@@ -41,3 +64,4 @@ class Solution {
         return root;
     }
 }
+*/
