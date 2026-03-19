@@ -78,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/architkakkar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
