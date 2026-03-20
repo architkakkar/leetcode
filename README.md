@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/architkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/architkakkar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -81,13 +83,24 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/architkakkar/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
