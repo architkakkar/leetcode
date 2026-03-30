@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/architkakkar/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/architkakkar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/architkakkar/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/architkakkar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/architkakkar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/architkakkar/leetcode/tree/master/0567-permutation-in-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/architkakkar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/architkakkar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -74,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/architkakkar/leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/architkakkar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/architkakkar/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/architkakkar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/architkakkar/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/architkakkar/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
